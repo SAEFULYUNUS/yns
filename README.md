@@ -1,0 +1,2 @@
+# yns
+latihan 1
